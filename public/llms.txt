@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+שירות הליכה עם כלבים מקצועי ומשתלם בחיפה והקריות. שובל מציע טיולים איכוtiים לכלב שלך במחיר נגיש של 60 ש״ח. הזמן עכשיו!
+
+### שירותים
+https://example.com/services
+גלה את מגוון השירותים שלנו: הליכות יומיות, טיולים ארוכים ופעילות גופנית לכלב שלך. איכות מקצועית במחיר של 60 ש״ח בלבד בחיפה והקריות.
+
+### גלריה
+https://example.com/gallery
+צפה בגלריית התמונות שלנו וראה כלבים מרוצים נהנים מהטיולים היומיומיים. כל תמונה מספרת סיפור של אנרגיה, שמחה ומקצועיות בחיפה והקריות.
+
+### צור קשר
+https://example.com/contact
+צור קשר עם שובל עכשיו והזמן שירות הליכה מקצועי לכלב שלך. זמינות גבוהה, מחיר הוגן של 60 ש״ח, ושירות אישי באזור חיפה והקריות. התקשר היום!
+
+### Products
+https://example.com/products
+המוצרים שלנו - שובל
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - שובל
+
+### Category
+https://example.com/category/:slug
+מוצרים - שובל
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
